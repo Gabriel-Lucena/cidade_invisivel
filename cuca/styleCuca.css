@@ -10,7 +10,7 @@ body{
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover; 
-  background-image: url("img/cuca.jpg");
+  background-image: url("../img/cuca.jpg");
   /*background-repeat: no-repeat;*/
   background-position: 0px;
   background-color: #0000006e;

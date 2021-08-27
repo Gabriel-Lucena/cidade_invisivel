@@ -10,7 +10,7 @@ body{
   height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("img/iara.jpg");
+  background-image: url("../img/iara.jpg");
   /*background-repeat: no-repeat;*/
   background-position: 10px;
   background-color: #0000006e;
