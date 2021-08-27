@@ -10,7 +10,7 @@ body{
   height: 100%;/*
   background-repeat: no-repeat;
   background-size: cover; */
-  background-image: url("../img/boto.jpg");
+  background-image: url("img/boto.jpg");
   /*background-repeat: no-repeat;*/
   background-position: 200px;
   background-color: #0000006e;

@@ -7,12 +7,12 @@
 body{
   width: 100vw;
   width: 100%;
-  height: 100%;
+  height: 100%;/*
   background-repeat: no-repeat;
-  background-size: cover; 
-  background-image: url("../img/cuca.jpg");
+  background-size: cover; */
+  background-image: url("img/saci.jpg");
   /*background-repeat: no-repeat;*/
-  background-position: 0px;
+  background-position: -575px;
   background-color: #0000006e;
   background-blend-mode: darken;
   color: white;
